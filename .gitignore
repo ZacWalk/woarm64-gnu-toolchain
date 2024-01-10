@@ -1,0 +1,9 @@
+code/
+downloads/
+build-*/
+bin-*/
+tests/*.exe
+tests/*.dll
+tests/*.s
+tests/*.gkd
+tests/*.a
